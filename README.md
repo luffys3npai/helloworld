@@ -3,6 +3,5 @@ just another repository
 
 Hello World,
 
-My name is Luffy. I will be the Pirate King. With nine of crewmates, I will get to Raftel and obtain one piece. 
-You'll see. 
+I am just trying to vibe code while making useful websites for me and for the rest
 
